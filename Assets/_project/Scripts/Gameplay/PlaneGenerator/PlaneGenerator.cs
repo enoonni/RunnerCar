@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using Gameplay.Plane;
 
 namespace Gameplay.Location
 {
