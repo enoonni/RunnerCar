@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ListName: PositiveObjects
   PrefabsToSpawn:
-  - {fileID: 182795545305200287, guid: 7ee1d85ce3b1e2f49b3806b4e79fbb7b, type: 3}
-  - {fileID: 2804716777751369658, guid: 48d66246f44f8a248b129c6e5053198b, type: 3}
+  - {fileID: 7762883647654856175, guid: f4895754a3292e9448a6000d201108da, type: 3}
+  - {fileID: 2480332206866365428, guid: d3ec2d3689cde994cba38809536dd049, type: 3}
   - {fileID: 8754674383822015617, guid: 9831046cbe517b84698edf2d66464914, type: 3}

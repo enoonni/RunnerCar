@@ -74,7 +74,7 @@ namespace Gameplay.Plane
             switch(obj)
             {
                 case NameElementsToSpawn.car:
-                    var choice = Random.Range(0, _listCars.Count - 1);
+                    var choice = Random.Range(0, _listCars.Count);
                     return _listCars[choice];
 
                 case NameElementsToSpawn.heart:
